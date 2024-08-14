@@ -4,13 +4,7 @@ TestKEYHook一款简易通用的鼠标下压软件
 修改 cd F:\modtest\untitled4\src为cd 本文件夹根目录
 双击TestKEYHook.bat打开窗口即可
 
-F1 启用/禁用功能
-F7 增加y轴
-F8 减少y轴
-F9 增加x轴
-F10 减少x轴
-左键开始使用
-
+功能绑定的按键请看程序输出
 注意：您至少需要安装java和配置环境变量
 不同版本,操作系统的电脑对路径的处理可能不同
 如果出现找不到或无法加载主类的情况请使用完整开发路径的项目文件
@@ -23,12 +17,7 @@ Usage tutorial: Open TestKEYHook.bat with Notepad
 Modify cd F: \ modtest \ untitled4 \ src to the root directory of the cd folder
 Double click TestKEYHook.bat to open the window
 
-F1 enable/disable function
-F7 adds y-axis
-F8 reduces y-axis
-F9 adds x-axis
-F10 reduces the x-axis
-Left click to start using
+Please refer to the program output for the function bound keys
 
 Note: You need to install Java and configure environment variables at least
 Different versions of computers with different operating systems may handle paths differently
