@@ -11,6 +11,9 @@ TestKEYHook一款简易通用的鼠标下压及其扩展软件
 
 功能1与功能2分别匹配全自动与半自动的区别
 
+注意：您至少需要安装java和配置环境变量来使用
+      您至少需要安装gcc和配置环境变量来开发
+
 开发来自yby360
 
 # TestKEYHook
@@ -26,5 +29,7 @@ View program output for specific functions
 
 Function 1 and Function 2 match the difference between fully automatic and semi-automatic respectively
 
-Developed by yby360
+Note: You need to install Java and configure environment variables at least to use it
+You need to install gcc and configure environment variables at least to develop
 
+Developed by yby360
