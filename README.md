@@ -34,7 +34,7 @@ F12：播放/暂停音乐。
 
 # 自定义按键及参数
 settings.txt中进行更改，更改后请打开程序查看cmd输出读取的配置
-#关于自定义按键
+# 关于自定义按键
 按键名称和对应数值
 以下是按键名称和对应的数值表：
 
@@ -66,7 +66,7 @@ Development tutorial: Download source code, you need to install Java and configu
 Ensure that the C language compilation environment (such as GCC) is installed on your computer
 Modify the code and run it using build.bat
 
-#Hot key description
+# Hot key description
 F1: Enable/disable recoil control.
 F2: Enable/disable the automatic click function.
 F5: Save the current settings to a file.
@@ -77,18 +77,18 @@ F10: Reduce the X-axis offset.
 F11: Switch trigger mode (left click or press both buttons simultaneously).
 F12: Play/pause music.
 
-#Default Open
+# Default Open
 1. cmd output window
 2. Configure information GUI
 3. Tray program
 
-#Usage skills
+# Usage skills
 Adjusting the offset of the Y-axis and X-axis: In shooting, adjusting the offset of the Y-axis and X-axis appropriately can help you better control the recoil of the weapon, suitable for different types of weapons.
 Switch trigger mode: Use the F11 key to switch trigger modes and select the mode that is suitable for the current game. Left button mode is more suitable for single shot weapons, while dual button mode is suitable for continuous shot weapons.
 
-#Customize buttons and parameters
+# Customize buttons and parameters
 Make changes in the settings. txt file. After the changes, please open the program to view the configuration read from cmd output
-#About customizing buttons
+# About customizing buttons
 Key name and corresponding numerical value
 The following is a table of key names and corresponding numerical values:
 
