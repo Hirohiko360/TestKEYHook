@@ -61,10 +61,6 @@ TestKEYHook is a simple and universal software for mouse down pressing and its e
 
 be careful! This is a beta version document. If you need to use a stable version of the exe file, please switch branches or search for the corresponding version in the release
 
-$\color{rgb(255,0,0)}{This software has suspended maintenance!}$
-
-$\color{rgb(255,0,0)}{We will use C++ for refactoring, please stay tuned}$
-
 Usage tutorial: Open TestKEYHook.bat with Notepad
 Modify cd F: \ modtest \ TestKEYHook \ src to the root directory of the cd folder
 Double click TestKEYHook.bat to open the window
