@@ -3,7 +3,8 @@ TestKEYHook一款简易通用的鼠标下压及其扩展软件
 
 注意！这是测试版文档，需要使用稳定版的exe文件请切换分支或者在发布中寻找对应版本
 
-$\color{rgb(255,0,0)}{本软件已暂停维护!但仍能使用将会用C++进行重构,敬请期待}$
+$\color{rgb(255,0,0)}{本软件已暂停维护!}$
+
 $\color{rgb(255,0,0)}{将会用C++进行重构,敬请期待}$
 
 使用教程：用记事本打开TestKEYHook.bat
@@ -61,6 +62,7 @@ TestKEYHook is a simple and universal software for mouse down pressing and its e
 be careful! This is a beta version document. If you need to use a stable version of the exe file, please switch branches or search for the corresponding version in the release
 
 $\color{rgb(255,0,0)}{This software has suspended maintenance!}$
+
 $\color{rgb(255,0,0)}{We will use C++ for refactoring, please stay tuned}$
 
 Usage tutorial: Open TestKEYHook.bat with Notepad
