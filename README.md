@@ -3,6 +3,8 @@ TestKEYHook一款简易通用的鼠标下压及其扩展软件
 
 注意！这是测试版文档，需要使用稳定版的exe文件请切换分支或者在发布中寻找对应版本
 
+$\color{rgb(255,0,0)}{本软件已暂停维护!将会用C++进行重构,敬请期待}$
+
 使用教程：用记事本打开TestKEYHook.bat
 修改 cd F:\modtest\TestKEYHook\src为cd 本文件夹根目录
 双击TestKEYHook.bat打开窗口即可
